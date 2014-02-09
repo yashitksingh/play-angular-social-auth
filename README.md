@@ -4,7 +4,7 @@
 
 I've just begun to learn Scala, Play and AngularJs. This is just a very basic sample application so I could play around and deal with a single-page's app security and experiment with these technologies. Oauth provider(facebook and google) are used to authorize the client. Angular frontend then uses the generated token for signing the request. 
 
-I think in reality I will end up using a comprehensive library for security such as https://github.com/mohiva/play-silhouette which seems to be actively developed. 
+I think in reality I will end up using a comprehensive library for security such as [play-silhouette](https://github.com/mohiva/play-silhouette) which seems to be actively developed. 
 
 The template used here was the template generously provided by Marius Soutier [play-angular-require-seed](https://github.com/mariussoutier/play-angular-require-seed).
 It also the blog post [Securing AngularJS Applications with Play](http://www.mariussoutier.com/blog/2013/07/14/272/)
