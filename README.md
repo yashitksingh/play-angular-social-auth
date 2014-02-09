@@ -2,8 +2,7 @@
 
 ## Intro
 
-This is just a very basic sample application so I could play around and deal with a single-page's app security.
-An oauth provider(facebook and google) are used to authorize a user. Angular frontend uses the generated token for signing the requests. I'm just beginning to learn Scala, Play and Angular and so far it's been quite fun!
+I've just begun to learn Scala, Play and AngularJs. This is just a very basic sample application so I could play around and deal with a single-page's app security. and experiment with the technologies. Oauth provider(facebook and google) are used to authorize the client. Angular frontend then uses the generated token for signing the request. 
 
 The template used here was the template generously provided by Marius Soutier [play-angular-require-seed](https://github.com/mariussoutier/play-angular-require-seed).
 It also used his great blog post [Securing AngularJS Applications with Play](http://www.mariussoutier.com/blog/2013/07/14/272/)
