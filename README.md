@@ -17,7 +17,6 @@ provider match
 
 I'm a beginner with Play, Angular and all the aforementioned technologies and so far so fun!
 
-Sample is running on http://morning-peak-8327.herokuapp.com
 This works on Chrome and Firefox but for some reason login doest not work in Safari!
 ****I get [Error] Failed to load resource: the server 
 responded with a status of 400 (Bad Request)****
