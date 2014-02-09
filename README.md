@@ -18,8 +18,7 @@ provider match
 I'm a beginner with Play, Angular and all the aforementioned technologies and so far so fun!
 
 This works on Chrome and Firefox but for some reason login doest not work in Safari!
-****I get [Error] Failed to load resource: the server 
-responded with a status of 400 (Bad Request)****
+I get [Error] Failed to load resource: the server responded with a status of 400 (Bad Request)
 I would greatly appreciate it if someone could help me understand why.
 
 ## Running the app locally
